@@ -1,0 +1,81 @@
+{
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/search?query=Riptide&type=track&offset=0&limit=1",
+      "items" : [ {
+        "album" : {
+          "album_type" : "album",
+          "artists" : [ {
+            "external_urls" : {
+              "spotify" : "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
+            },
+            "href" : "https://api.spotify.com/v1/artists/10exVja0key0uqUkk6LJRT",
+            "id" : "10exVja0key0uqUkk6LJRT",
+            "name" : "Vance Joy",
+            "type" : "artist",
+            "uri" : "spotify:artist:10exVja0key0uqUkk6LJRT"
+          } ],
+          "available_markets" : [ "AD", "AE", "AG", "AL", "AM", "AO", "AR", "AT", "AZ", "BA", "BB", "BD", "BE", "BF", "BG", "BH", "BI", "BJ", "BN", "BO", "BR", "BS", "BT", "BW", "BY", "BZ", "CA", "CD", "CG", "CH", "CI", "CL", "CM", "CO", "CR", "CV", "CW", "CY", "CZ", "DE", "DJ", "DK", "DM", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FJ", "FM", "FR", "GA", "GB", "GD", "GE", "GH", "GM", "GN", "GQ", "GR", "GT", "GW", "GY", "HK", "HN", "HR", "HT", "HU", "ID", "IE", "IL", "IN", "IQ", "IS", "IT", "JM", "JO", "JP", "KE", "KG", "KH", "KI", "KM", "KN", "KR", "KW", "KZ", "LA", "LB", "LC", "LI", "LK", "LR", "LS", "LT", "LU", "LV", "LY", "MA", "MC", "MD", "ME", "MG", "MH", "MK", "ML", "MN", "MO", "MR", "MT", "MU", "MV", "MW", "MX", "MY", "MZ", "NA", "NE", "NG", "NI", "NL", "NO", "NP", "NR", "OM", "PA", "PE", "PG", "PH", "PK", "PL", "PS", "PT", "PW", "PY", "QA", "RO", "RS", "RW", "SA", "SB", "SC", "SE", "SG", "SI", "SK", "SL", "SM", "SN", "SR", "ST", "SV", "SZ", "TD", "TG", "TH", "TJ", "TL", "TN", "TO", "TR", "TT", "TV", "TW", "TZ", "UA", "UG", "US", "UY", "UZ", "VC", "VE", "VN", "VU", "WS", "XK", "ZA", "ZM", "ZW" ],      
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/album/5S9b8euumqMhQbMk0zzQdH"
+          },
+          "href" : "https://api.spotify.com/v1/albums/5S9b8euumqMhQbMk0zzQdH",
+          "id" : "5S9b8euumqMhQbMk0zzQdH",
+          "images" : [ {
+            "height" : 640,
+            "url" : "https://i.scdn.co/image/ab67616d0000b273a9929deb093a6617d2493b03",
+            "width" : 640
+          }, {
+            "height" : 300,
+            "url" : "https://i.scdn.co/image/ab67616d00001e02a9929deb093a6617d2493b03",
+            "width" : 300
+          }, {
+            "height" : 64,
+            "url" : "https://i.scdn.co/image/ab67616d00004851a9929deb093a6617d2493b03",
+            "width" : 64
+          } ],
+          "name" : "Dream Your Life Away (Special Edition)",
+          "release_date" : "2014-09-09",
+          "release_date_precision" : "day",
+          "total_tracks" : 15,
+          "type" : "album",
+          "uri" : "spotify:album:5S9b8euumqMhQbMk0zzQdH"
+        },
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
+          },
+          "href" : "https://api.spotify.com/v1/artists/10exVja0key0uqUkk6LJRT",
+          "id" : "10exVja0key0uqUkk6LJRT",
+          "name" : "Vance Joy",
+          "type" : "artist",
+          "uri" : "spotify:artist:10exVja0key0uqUkk6LJRT"
+        } ],
+        "available_markets" : [ "AD", "AE", "AG", "AL", "AM", "AO", "AR", "AT", "AZ", "BA", "BB", "BD", "BE", "BF", "BG", "BH", "BI", "BJ", "BN", "BO", "BR", "BS", "BT", "BW", "BY", "BZ", "CA", "CD", "CG", "CH", "CI", "CL", "CM", "CO", "CR", "CV", "CW", "CY", "CZ", "DE", "DJ", "DK", "DM", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FJ", "FM", "FR", "GA", "GB", "GD", "GE", "GH", "GM", "GN", "GQ", "GR", "GT", "GW", "GY", "HK", "HN", "HR", "HT", "HU", 
+  "ID", "IE", "IL", "IN", "IQ", "IS", "IT", "JM", "JO", "JP", "KE", "KG", "KH", "KI", "KM", "KN", "KR", "KW", "KZ", "LA", "LB", "LC", "LI", "LK", "LR", "LS", "LT", "LU", "LV", "LY", "MA", "MC", "MD", "ME", "MG", "MH", "MK", "ML", "MN", "MO", "MR", "MT", "MU", "MV", "MW", "MX", "MY", "MZ", "NA", "NE", "NG", "NI", "NL", "NO", "NP", "NR", "OM", "PA", "PE", "PG", "PH", "PK", "PL", "PS", "PT", "PW", "PY", "QA", "RO", "RS", "RW", "SA", "SB", "SC", "SE", 
+  "SG", "SI", "SK", "SL", "SM", "SN", "SR", "ST", "SV", "SZ", "TD", "TG", "TH", "TJ", "TL", "TN", "TO", "TR", "TT", "TV", "TW", "TZ", "UA", "UG", "US", "UY", "UZ", "VC", "VE", "VN", "VU", "WS", "XK", "ZA", "ZM", "ZW" ],        
+        "disc_number" : 1,
+        "duration_ms" : 204280,
+        "explicit" : false,
+        "external_ids" : {
+          "isrc" : "AULI01385760"
+        },
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/track/3JvrhDOgAt6p7K8mDyZwRd"
+        },
+        "href" : "https://api.spotify.com/v1/tracks/3JvrhDOgAt6p7K8mDyZwRd",
+        "id" : "3JvrhDOgAt6p7K8mDyZwRd",
+        "is_local" : false,
+        "name" : "Riptide",
+        "popularity" : 79,
+        "preview_url" : "https://p.scdn.co/mp3-preview/fe5f6f3eeac1720c920f67eedfe899ccf900a819?cid=7763be1968e441cfb080268471fdac62",
+        "track_number" : 4,
+        "type" : "track",
+        "uri" : "spotify:track:3JvrhDOgAt6p7K8mDyZwRd"
+      } ],
+      "limit" : 1,
+      "next" : "https://api.spotify.com/v1/search?query=Riptide&type=track&offset=1&limit=1",
+      "offset" : 0,
+      "previous" : null,
+      "total" : 10002
+    }
+  }
